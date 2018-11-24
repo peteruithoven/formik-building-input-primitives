@@ -1,0 +1,24 @@
+{
+  "name": "formik-building-input-primitives",
+  "version": "0.0.329",
+  "description": "Example of creating reusable form components for Formik.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/ko5noovvq7",
+  "main": "index.js",
+  "dependencies": {
+    "classnames": "2.2.5",
+    "formik": "0.11.11",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "yup": "0.23.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
